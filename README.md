@@ -11,7 +11,7 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-$ git clone https://github.com/alextfonseca/API_Organizastock.git
+$ git clone https://github.com/alextfonseca/ApiOrganizastock.git
 $ cd api-nodejs
 $ yarn dev ou npm dev
 ```
@@ -19,7 +19,7 @@ $ yarn dev ou npm dev
 Windows:
 
 ```bash
-$ git clone https://github.com/alextfonseca/API_Organizastock.git
+$ git clone https://github.com/alextfonseca/ApiOrganizastock.git
 $ cd api-nodejs
 $ yarn dev ou npm dev
 ```
