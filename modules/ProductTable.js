@@ -11,13 +11,13 @@ const Product = sequelize.define("produtos", {
     type: Sequelize.STRING,
   },
   amount: {
-    type: Sequelize.INTEGER,
+    type: Sequelize.STRING,
   },
   unitaryValue: {
-    type: Sequelize.INTEGER,
+    type: Sequelize.STRING,
   },
   lotValue: {
-    type: Sequelize.INTEGER,
+    type: Sequelize.STRING,
   },
   expirationDate: {
     type: Sequelize.DATE,
